@@ -1,3 +1,9 @@
+Nouns Sequitur moved to https://github.com/enxyz/nounsequiturs-monorepo
+
+This is a(n active) fork of Nouns
+
+
+
 # noun-sequiturs-monorepo
 
 Noun Sequiturs is a series of comic strips based on Nouns.
